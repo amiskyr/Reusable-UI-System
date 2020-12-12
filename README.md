@@ -2,7 +2,6 @@
 
 This is a Reusable UI system with a modular design where scene(s) can be added on the go with all the components required for a UI screen to make it functional. All the animation clip files are included with animation controllers and override animation controllers. This Unity project can be used for any platform with minor changes in canvas renderer and canvas size. 
 
-# link to APK file of the build: https://github.com/SKY-ROY/Reusable-UI-System/raw/master/BUILD/RUIS%5B0.1%5D.apk
 # link to Project package: https://github.com/SKY-ROY/Reusable-UI-System/raw/master/CloningPackage/RUIS%5B0.1%5D.unitypackage
 
 # NOTE
