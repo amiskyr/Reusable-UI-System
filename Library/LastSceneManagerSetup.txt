@@ -1,4 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/UI_Scene.unity
+- path: Assets/RUIS/Example/Scenes/UI_Scene.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0
